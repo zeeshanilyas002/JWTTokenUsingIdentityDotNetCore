@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0ROqDzr4CzW9sCvsoXvFzYeB0ua/Pn0W9MOvAjWmTM8=",
+  "Source": "JWTWithIdentity",
+  "BasePath": "_content/JWTWithIdentity",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
